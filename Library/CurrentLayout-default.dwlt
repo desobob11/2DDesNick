@@ -344,7 +344,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Des\MyFirstGame
+  m_LastProjectPath: C:\Users\Des\Documents\GitHub\2DDesNick
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -406,7 +406,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -502,9 +502,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 8a2c0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6afbffff
+      m_ExpandedIDs: 5efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -566,7 +566,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -0.039121248, y: 3.5497482, z: -5.4603095}
     speed: 2
-    m_Value: {x: -0.014450891, y: 3.5561788, z: -5.4554567}
+    m_Value: {x: -0.039121248, y: 3.5497482, z: -5.4603095}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -618,7 +618,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 1.2878083
     speed: 2
-    m_Value: 1.3484904
+    m_Value: 1.2878083
   m_Ortho:
     m_Target: 1
     speed: 2
